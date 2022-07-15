@@ -3,7 +3,7 @@ Description: file content
 Author: QiuYe
 Date: 2022-07-15 22:45:04
 LastEditors: QiuYe
-LastEditTime: 2022-07-16 00:04:51
+LastEditTime: 2022-07-16 00:37:40
 FilePath: \A hundred chestnuts for Python\9、怎样对列表元素去重.py
 '''
 
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     origin_list = [2,4,4,5,5,6]
     print(f"1、原本列表：{origin_list},重复元素：{match_repeating_elements(origin_list)}") #错误示范！！！
     
-    origin_list = [2,4,4,5,5,6]
+    origin_list = [2,4,4,5,5,6] 
     unique_list = match_remove_repeating(origin_list)
     print(f"2、原本列表：{origin_list},去重后的列表： {unique_list}")
     

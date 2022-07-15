@@ -3,7 +3,7 @@ Description: file content
 Author: QiuYe
 Date: 2022-07-16 00:06:50
 LastEditors: QiuYe
-LastEditTime: 2022-07-16 00:22:06
+LastEditTime: 2022-07-16 00:37:19
 FilePath: \A hundred chestnuts for Python\10、怎样对简单列表元素排序.py
 '''
 # 对简单列表进行排序，并不是复合列表

@@ -3,7 +3,7 @@ Description: file content
 Author: QiuYe
 Date: 2022-07-15 22:28:55
 LastEditors: QiuYe
-LastEditTime: 2022-07-15 23:45:34
+LastEditTime: 2022-07-16 00:38:03
 FilePath: \A hundred chestnuts for Python\8、移除列表中的多个元素.py
 '''
 
@@ -24,7 +24,7 @@ def remove_designed_number_plus(origin_list,remove_list):
 
 if __name__ == "__main__":
     
-    '''方法一：注意！！！ 自己想的思路解题有些复杂了'''
+    '''方法一：注意！！！ 自己想的思路解题有些复杂了''' 
     origin_list = [2,4,4,5,6,7,8,9,10,11,12,13]
     remove_list = [12,2]
     print(f"原本的列表:{origin_list}，移除{remove_list}后的列表：", remove_designed_number(origin_list,remove_list))
