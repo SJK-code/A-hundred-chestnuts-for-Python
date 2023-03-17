@@ -3,8 +3,8 @@ Description: file content
 Author: QiuYe
 Date: 2022-06-28 20:47:31
 LastEditors: QiuYe
-LastEditTime: 2022-07-15 20:49:17
-FilePath: \A hundred chestnuts for Python\1、计算两数之和.py
+LastEditTime: 2023-03-17 12:30:39
+FilePath: \A hundred chestnuts for Python\Python 基础操作\1、计算两数之和.py
 '''
 
 '''Description: 计算两个数字之和'''
