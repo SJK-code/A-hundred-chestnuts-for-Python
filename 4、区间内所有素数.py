@@ -6,7 +6,7 @@ Description:
 Author: QiuYe
 Date: 2022-07-15 21:03:38
 LastEditors: QiuYe
-LastEditTime: 2022-07-15 21:40:03
+LastEditTime: 2022-08-04 19:37:06
 FilePath: \A hundred chestnuts for Python\4、区间内所有素数.py
 '''
 from cmath import inf
@@ -39,4 +39,4 @@ def judge_prime(number):
 
 if __name__ == "__main__":
     #输入一个打印区间
-    print_primes(-10,20)
+    print_primes(-10,3)
